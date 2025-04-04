@@ -53,8 +53,6 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <h3> FrameWork </h3>
-      <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/-electron-47848F?&style=for-the-badge&logo=electron&logoColor=white" />
       <img src="https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     </td>
